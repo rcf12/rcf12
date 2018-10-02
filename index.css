@@ -113,7 +113,7 @@ body{
 /* When screen is less than 800px, hide all links. Show the link that contains should open and close the navbar (.icon) */
 @media screen and (max-width: 800px) {
   #logo {
-    font-size: 150%;
+    font-size: 100%;
   }
   .navbar a:not(:first-child) {
     display: none;
